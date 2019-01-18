@@ -645,7 +645,7 @@ div.pp_default .pp_loaderIcon
 
 #skills
 {
-    background-color: #f4ff81; 
+    background-color: #ffc107; 
     /* background-image: url("demo-images/item_background_01.jpg");  */
     background-repeat: no-repeat; 
     background-position: left top; 
@@ -660,7 +660,7 @@ div.pp_default .pp_loaderIcon
 
 #skills .section-title-holder span
 {
-    color: #f4ff81;
+    color: #ffc107;
 }
 .progress_bar 
 {
