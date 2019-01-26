@@ -16,7 +16,7 @@ body a
 
 body a:hover
 {
-    color: #d500f9;
+    color: #1a237e;
 }
 
 .doc-loader 
@@ -68,7 +68,7 @@ body a:hover
 {    
     transition: background-color .2s linear;
     z-index: 99 !important;
-    background-color: #84ffff;
+    background-color: #00e5ff;
     width: 100% !important;
     top: 0;
     position: fixed;
@@ -91,6 +91,7 @@ body a:hover
     font-size: 13px;
     line-height: 40px;
     color: #fff;
+    background-color: transparent;
     font-weight: 400;
     transition: color .2s linear;
     text-transform: uppercase;
@@ -105,17 +106,17 @@ body a:hover
 
 .sm-clean .current_page_item a 
 {
-    color: #fff !important;
+    color: #26276d !important;
 }
 
 .main-menu.sm-clean a:hover 
 {
-    color: #fff !important;
+    color: #26276d !important;
 }
 
 .sm-clean li.active a
 {
-    color: #fff !important;
+    color: #26276d !important;
 }
 
 .mob-menu
@@ -126,7 +127,7 @@ body a:hover
     padding-top: 15px;
     padding-bottom: 15px;
     transition: color .2s linear;
-    color: #fff;
+    color: #2196f3;
 }
 
 /* END TOP MENU */
@@ -317,7 +318,7 @@ h1.big-title
 
 #services
 {
-    background-color: #ccff90;
+    background-color: #1b5e20;
     z-index: 9;
 }
 
@@ -328,7 +329,7 @@ h1.big-title
 
 #services .section-title-holder span
 {
-    color: #ccff90;
+    color: #1b5e20;
 }
 
 .service-holder 
@@ -347,7 +348,7 @@ h1.big-title
 .service-content-holder 
 {
     display: inline-block;
-    color: #ccff90;
+    color: #1b5e20;
     width: 240px;
     margin-top: 55px;
     margin-left: 5px;
@@ -356,8 +357,8 @@ h1.big-title
 .service-title 
 {
     font-family: 'Montserrat', sans-serif; 
-    color: #76ff03;
-    font-size: 24px;
+    color: #76ff03 ;
+    font-size: 30px;
     padding-bottom: 10px;
 }
 
@@ -566,7 +567,7 @@ div.pp_default .pp_loaderIcon
 
 #about
 {
-    background-color: #ffcc80; 
+    background-color: #ff9800; 
     /* background-image: url("demo-images/bg.jpg");  */
     background-repeat: no-repeat; 
     background-position: center top; 
@@ -581,7 +582,7 @@ div.pp_default .pp_loaderIcon
 
 #about .section-title-holder span
 {
-    color: #ffcc80;
+    color: #ff9800;
 }
 
 #about .section-content-holder
@@ -621,13 +622,13 @@ div.pp_default .pp_loaderIcon
     line-height: 16px;
     font-size: 14px;
     padding-bottom: 50px;
-    color: #ffcc80;
+    color: #ff9800;
     letter-spacing: 4px;
 }
 
 .member-content
 {
-    color: #ffcc80;
+    color: #ff9800;
     line-height: 26px;    
 }
 
@@ -732,7 +733,7 @@ div.pp_default .pp_loaderIcon
 
 #contact
 {
-    background-color: #d500f9; 
+    background-color: #1a237e; 
     /* background-image: url("demo-images/bg.jpg");  */
     background-repeat: no-repeat; 
     background-position: center top; 
@@ -747,7 +748,7 @@ div.pp_default .pp_loaderIcon
 
 #contact .section-title-holder span
 {
-    color: #d500f9;
+    color: #1a237e;
 }
 
 #contact .section-content-holder
@@ -772,7 +773,7 @@ div.pp_default .pp_loaderIcon
     width: 770px;
     margin: 0 auto;
     font-size: 22px;
-    color: #d500f9;
+    color: #1a237e;
 }
 
 p.custom-text-class 
@@ -790,7 +791,7 @@ p.custom-field-class
 
 .contact-form input[type=text], .contact-form input[type=email], .contact-form textarea
 {
-    color: #d500f9;
+    color: #1a237e;
     border: 0;
     border-bottom: 1px solid #1c1c1c;
     height: 28px;    
@@ -805,7 +806,7 @@ p.custom-field-class
 .contact-form input[type=text]::-webkit-input-placeholder, .contact-form input[type=email]::-webkit-input-placeholder, .contact-form textarea::-webkit-input-placeholder
 {
     font-family: 'Roboto', sans-serif;
-    color: #d500f9;
+    color: #1a237e;
     font-weight: 400;
     font-size: 16px;
     line-height: 25px;
@@ -813,7 +814,7 @@ p.custom-field-class
 .contact-form input[type=text]::-moz-placeholder, .contact-form input[type=email]::-moz-placeholder, .contact-form textarea::-moz-placeholder
 {
     font-family: 'Roboto', sans-serif;
-    color: #d500f9;
+    color: #1a237e;
     font-weight: 400;
     font-size: 16px;
     line-height: 25px;
@@ -822,7 +823,7 @@ p.custom-field-class
 .contact-form input[type=text]:-ms-input-placeholder, .contact-form input[type=email]:-ms-input-placeholder, .contact-form textarea:-ms-input-placeholder
 {
     font-family: 'Roboto', sans-serif;
-    color: #d500f9;
+    color: #1a237e;
     font-weight: 400;
     font-size: 16px;
     line-height: 25px;
@@ -830,7 +831,7 @@ p.custom-field-class
 .contact-form input[type=text]:-moz-placeholder, .contact-form input[type=email]:-moz-placeholder, .contact-form textarea:-moz-placeholder
 {
     font-family: 'Roboto', sans-serif;
-    color: #d500f9;
+    color: #1a237e;
     font-weight: 400;
     font-size: 16px;
     line-height: 25px;
@@ -869,9 +870,9 @@ p.custom-field-class
 
 .contact-form input[type=submit]
 {	
-    color: #d500f9;
+    color: #1a237e;
     display: inline-block;
-    border: 2px solid #d500f9;
+    border: 2px solid #1a237e;
     text-align: center;
     padding: 12px 0px;
     cursor: pointer;
@@ -889,7 +890,7 @@ p.custom-field-class
 .contact-form input[type=submit]:hover
 {
     color: white;
-    background-color: #d500f9;
+    background-color: #1a237e;
 }
 
 div.contact-form-response-output
@@ -936,7 +937,7 @@ footer
 
 .footer a
 {
-    color: #d500f9;
+    color: #1a237e;
 }
 
 .social-footer a 
@@ -1023,7 +1024,7 @@ footer
 .single-portfolio .entry-content .one_half
 {
     width: 435px;
-    color: #ffcc80;
+    color: #ff9800;
     padding-left: 100px;
 }
 
